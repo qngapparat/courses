@@ -13,5 +13,8 @@ This course introduces the principles, mathematical models and applications of c
 ### COMP3355 - Cyber Security
 
 ### COMP3353 - Bioinformatics
+We will study: (1) algorithms, especially those for sequence alignment and assembly, which comprise the foundation of the rapid development of bioinformatics and DNA sequencing; (2) the leading bioinformatics tools for comparing and analysing genomes starting from raw sequencing data; (3) the functions and organization of a few essential bioinformatics databases and learn how they support various types of bioinformatics analysis. 
+ 
+*Anrechnung als Interdisziplinäre Kompetenz (5 ECTS)
 
 ### COMP3354 - Statistical Learning
